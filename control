@@ -1,0 +1,8 @@
+Package: backend-api
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: arm64
+Maintainer: Danila <danila@example.com>
+Description: Backend API for the caching layer project
+ Depends on PostgreSQL. Provides /user endpoint.
